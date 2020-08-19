@@ -17,7 +17,7 @@
 <br></br>
 
 ### Language, tools and libraries:
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/JavaScript.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/HTML5.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/CSS3.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/Python.svg" />
