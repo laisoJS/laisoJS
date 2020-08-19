@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [a discord rpg bot](https://github.com/loic500/DiscordBot_RPG)
 
-- 🌱 I’m currently learning **JavaScript HTML CSS ejs python c++**
+- ⚙️ I’m currently learning `.js`, `.html`, `.css`, `.ejs`, `.py` and `.cpp`
 
 <br></br>
 
