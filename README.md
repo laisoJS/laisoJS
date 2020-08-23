@@ -29,6 +29,5 @@
 <br></br>
 <details>
   <summary>📊 Github Stats</summary>
-
-    [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=loic500&show_icons=true&hide_border=true&title_color=66fcf1&text_color=c5c6c7&bg_color=1f2833&icon_color=45a29e" />
 </details>
