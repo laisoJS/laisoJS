@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [a discord rpg bot](https://github.com/loic500/DiscordBot_RPG)
 
-- ⚙️ I’m currently learning `.js`, `.html`, `.css`, `.ejs`, `.py` and `.cpp`
+- ⚙️ I’m currently learning `.js`, `.html`, `.css`, `.scss` and `.py`
 
 <br></br>
 
@@ -25,6 +25,7 @@
 <img align="left" height="26" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" height="26" width="26" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fuser-images.githubusercontent.com%2F674621%2F71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png&f=1&nofb=1" />
 <img align="left" height="26" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" height="26" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <br></br>
 <br></br>
 <details>
