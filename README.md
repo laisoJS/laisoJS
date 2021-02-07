@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Loic leroy</h1>
 <h3 align="center">A young developer from belgium</h3>
 
-- 🔭 I’m currently working on [wiseup sneakers store](https://wiseup.vercel.app/home.html)
+- 🔭 I’m currently working on some javascript things
 
 - ⚙️ I’m currently learning `.js`, `.html`, `.css`, `.scss` and `.py`
 
