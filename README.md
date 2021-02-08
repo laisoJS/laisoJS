@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on some javascript things
 
-- ⚙️ I’m currently learning `.js`, `.html`, `.css`, `.scss` and `.py`
+- ⚙️ I’m currently learning `.js`, `.html`, `.css` and `.scss`
 
 <br></br>
 
