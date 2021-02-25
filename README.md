@@ -3,7 +3,8 @@
 
 - 🔭 I’m currently working on some javascript things
 
-- ⚙️ I’m currently learning `.js`, `.html`, `.css` and `.scss, data structures et data visualization
+- ⚙️ I’m currently learning `.js`, `.html`, `.css` and `.scss
+- I try to learn react, data structures and data visualization
 
 <br></br>
 
