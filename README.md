@@ -6,7 +6,7 @@
 - ⚙️ I’m currently learning  `.html`, `.js` `.jsx`, `.css` `.scss`
 - I try to learn `express.js`
 
-- I'm working on a free to use [E-SHOP template using MERN method](https://github.com/loic500/Atomia) using Mongodb and passport
+- I'm working on a free to use [E-SHOP template using MERN method](https://github.com/loic500/eshop-template) using Mongodb and passport
 
 <br></br>
 
