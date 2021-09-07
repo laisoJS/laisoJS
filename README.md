@@ -1,5 +1,5 @@
 <h1 align="center">🍂🏵 Loic Leroy</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=loic500&label=Profile%20views&color=0e75b6&style=flat" alt="loic500" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=loic500&label=Profile%20views&color=1a1607&style=flat" alt="loic500" /> </p>
 
 - 🌺 I’m currently working on a [free to use e-shop template](https://github.com/loic500/eshop-template)
 
