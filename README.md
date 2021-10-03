@@ -3,7 +3,7 @@
 
 - 🌺 I’m currently working on a [free to use e-shop template](https://github.com/loic500/eshop-template)
 
-- 🌹 I’m currently learning **Express and React**
+- 🌹 I’m currently learning **Javascript and regex** like a pro
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -41,9 +41,7 @@
 <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 </a> 
-<a href="https://postman.com" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-</a> 
+
 
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
