@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/jM4NGpvx6jZmW93hcZ/giphy.gif" alt="loic500" border-radius="50%" width="100"/>
+    <img src="https://media.giphy.com/media/jM4NGpvx6jZmW93hcZ/giphy.gif" alt="loic500" style="border-radius:50%"/>
     <div id="badge">
         <a href="https://instagram.com/aloisleroy">
             <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
@@ -13,7 +13,7 @@
     </div>
     <img src="https://komarev.com/ghpvc/?username=loic500&label=Profile%20views&color=e89d2a&style=flat-square" alt="loic500"> 
 </div>
-<h1>
+<h1 align="center">
   hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
