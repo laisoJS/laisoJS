@@ -13,31 +13,3 @@
     </div>
     <img src="https://komarev.com/ghpvc/?username=loic500&label=Profile%20views&color=000000&style=flat" alt="loic500" width="120"/> 
 </div>
-
----
-
-### :hammer_and_wrench: Languages and Tools :
-
----
-
-<!--START_SECTION:waka-->
-
-
-name: Work Stats Readme
-
-on:
-  workflow_dispatch:
-  schedule:
-    # Runs every 2 hours
-    - cron: "0 */2 * * *"
-
-jobs:
-  update-readme:
-    name: Update this repo's README
-    runs-on: ubuntu-latest
-    steps:
-      - uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          
-<!--END_SECTION:waka-->
