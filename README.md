@@ -4,9 +4,6 @@
         <a href="https://instagram.com/aloisleroy">
             <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
         </a>
-        <a href="https://twitter.com/loic500">
-            <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge">
-        </a>
         <a href="https://dev.to/loic500">
             <img src="https://img.shields.io/badge/dev.to-black?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to Badge">
         </a>
