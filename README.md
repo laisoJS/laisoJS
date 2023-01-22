@@ -1,27 +1,3 @@
-<style>
-    @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
-    h3 {
-        font-family: 'Press Start 2P', cursive;
-        font-size: 1.5rem;
-        font-weight: 600;
-        margin: 1.3rem;
-    }
-
-    #knowledge {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-    }
-
-    #knowledge .icon {
-        display: flex;
-        flex-direction: row;
-        align-items: center;
-        justify-content: center;
-        gap: .5rem;
-    }
-</style>
-
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/tCnP4Xf98BWxZNdCmW/giphy.gif" alt="loic500" width="150"/>
     <br> 
@@ -37,7 +13,7 @@
     <img src="https://komarev.com/ghpvc/?username=laisoJS&label=Profile%20views&color=25221B&style=flat" alt="laisoJS profile view" width="150"/>
     <br/> 
     <div id="knowledge">
-        <h3>knowledge</h3>
+        <h2>knowledge</h2>
         <div class="icon">
             <a href="https://code.visualstudio.com/" target="_blank">
                 <img src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png" alt="visual studio code" width="35">
