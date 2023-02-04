@@ -30,6 +30,9 @@
             <a href="adobe.com/be_fr/products/aftereffects.html" target="_blank">
                 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968428.png" alt="after effect" width="35">
             </a>
+            <a href="https://www.figma.com/" target="_blank">
+                <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="figma" width="35">
+            </a>
             <a href="www.rhino3d.com" target="_blank">
                 <img src="https://www.rhino3d.com/new-source/images/favicon.ico" alt="rhino3d" width="35">
             </a>
