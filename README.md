@@ -1,15 +1,6 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/tCnP4Xf98BWxZNdCmW/giphy.gif" alt="loic500" width="150"/>
     <br> 
-    <div id="badge">
-        <a href="https://instagram.com/aloisleroy">
-            <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
-        </a>
-        <a href="https://dev.to/loic500">
-            <img src="https://img.shields.io/badge/dev.to-black?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to Badge">
-        </a>
-    </div>
-    <br>
     <img src="https://komarev.com/ghpvc/?username=laisoJS&label=Profile%20views&color=25221B&style=flat" alt="laisoJS profile view" width="150"/>
     <br/> 
     <div id="knowledge">
