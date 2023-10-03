@@ -32,4 +32,14 @@
             </a>
         </div>
     </div>
+        <h2>Learning</h2>
+        <div class="icon">
+            <a href="https://python.org/" target="_blank">
+                <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" width="35">
+            </a>
+            <a href="https://react.dev/" target="_blank">
+                <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" width="35">
+            </a>
+        </div>
+    </div>
 </div>
