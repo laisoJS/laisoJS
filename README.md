@@ -28,7 +28,7 @@
                 <img src="https://www.rhino3d.com/new-source/images/favicon.ico" alt="rhino3d" width="35">
             </a>
             <a href="www.blender.org" target="_blank">
-                <img src="https://www.blender.org/wp-content/themes/bthree/assets/images/favicon.ico" alt="blender" width="35">
+                <img src="https://www.blender.org/wp-content/themes/bthree/assets/icons/favicon.svg" alt="blender" width="35">
             </a>
         </div>
     </div>
