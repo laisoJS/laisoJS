@@ -28,5 +28,8 @@
         <a href="https://www.jetbrains.com/pycharm/" target="_blank">
             <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="pycharm" width="35">
         </a>
+        <a href="https://github.com/torvalds/linux" target="_blank">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="linux" width="35">
+        </a>
     </details>
 </div>
