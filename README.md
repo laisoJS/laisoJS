@@ -3,7 +3,7 @@
     <p>
         I'm a young graphic designer diving into the world of Cybersecurity. Here's a bit about my toolkit and what I'm currently learning:
     </p>
-    </br>
+    <img src="https://komarev.com/ghpvc/?username=laisoJS&label=Profile%20views&color=25221B&style=flat" alt="laisoJS profile view" width="150"/>
     <h2>Tools & Technologies</h2>
     <details>
         <summary>Graphic Design Tools</summary>
