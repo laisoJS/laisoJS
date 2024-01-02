@@ -1,5 +1,10 @@
 <div id="header" align="center">
     <h1>Hello there ! 👋</h1>
+    <p>
+        I'm a young graphic designer diving into the world of Cybersecurity. Here's a bit about my toolkit and what I'm currently learning:
+    </p>
+    </br>
+    <h2>Tools & Technologies</h2>
     <details>
         <summary>Graphic Design Tools</summary>
         <a href="https://www.adobe.com/be_fr/products/photoshop.html" target="_blank">
