@@ -32,4 +32,13 @@
             <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="linux" width="35">
         </a>
     </details>
+    <details>
+        <summary>Language and framework</summary>
+        <a href="https://www.javascript.com/" target="_blank">
+            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="visual studio code" width="35">
+        </a>
+        <a href="https://python.org/" target="_blank">
+            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="pycharm" width="35">
+        </a>
+    </details>
 </div>
