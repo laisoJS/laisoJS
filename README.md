@@ -28,6 +28,9 @@
         <a href="https://www.jetbrains.com/pycharm/" target="_blank">
             <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="pycharm" width="35">
         </a>
+        <a href="https://www.wireshark.org/" target="_blank">
+            <img src="https://www.wireshark.org/assets/icons/wireshark-fin.png" alt="wireshark" width="35">
+        </a>
         <a href="https://github.com/torvalds/linux" target="_blank">
             <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="linux" width="35">
         </a>
@@ -35,10 +38,13 @@
     <details>
         <summary>Language and framework</summary>
         <a href="https://www.javascript.com/" target="_blank">
-            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="visual studio code" width="35">
+            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" width="35">
+        </a>
+        <a href="https://www.expressjs.com" target="_blank">
+            <img src="https://imgs.search.brave.com/sRcCEEHJ54hpT4LFZEar7JYNsEfCEB1bhmYwGS6K0qo/rs:fit:560:320:1/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy82/LzY0L0V4cHJlc3Nq/cy5wbmc" alt="expressJS" width="35">
         </a>
         <a href="https://python.org/" target="_blank">
-            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="pycharm" width="35">
+            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" width="35">
         </a>
     </details>
 </div>
