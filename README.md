@@ -28,11 +28,20 @@
         <a href="https://www.jetbrains.com/pycharm/" target="_blank">
             <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="pycharm" width="35">
         </a>
+        <a href="https://www.jetbrains.com/phpstorm/" target="_blank">
+            <img src="https://resources.jetbrains.com/storage/logos/web/phpstorm/phpstorm.svg" alt="phpstorm" width="35">
+        </a>
+        <a href="https://www.jetbrains.com/datagrip/" target="_blank">
+            <img src="https://resources.jetbrains.com/storage/logos/web/datagrip/datagrip.svg" alt="datagrip" width="35">
+        </a>
         <a href="https://www.wireshark.org/" target="_blank">
             <img src="https://www.wireshark.org/assets/icons/wireshark-fin.png" alt="wireshark" width="35">
         </a>
         <a href="https://github.com/torvalds/linux" target="_blank">
             <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="linux" width="35">
+        </a>
+        <a href="https://insomnia.rest/" target="_blank">
+            <img src="https://static-00.iconduck.com/assets.00/apps-insomnia-icon-512x512-dse2p0fm.png" alt="insomnia" width="35">
         </a>
     </details>
     <details>
