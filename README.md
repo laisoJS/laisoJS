@@ -16,9 +16,6 @@
         <a href="https://www.figma.com/" target="_blank">
              <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="figma" width="35">
         </a>
-        <a href="www.blender.org" target="_blank">
-            <img src="https://www.blender.org/wp-content/themes/bthree/assets/icons/favicon.svg" alt="blender" width="35">
-        </a>
     </details>
     <details>
         <summary>Development Tools & Environments</summary>
@@ -42,6 +39,9 @@
         </a>
         <a href="https://insomnia.rest/" target="_blank">
             <img src="https://static-00.iconduck.com/assets.00/apps-insomnia-icon-512x512-dse2p0fm.png" alt="insomnia" width="35">
+        </a>
+        <a href="https://www.virtualbox.org/" target="_blank">
+            <img src="https://www.virtualbox.org/favicon.ico" alt="virtualbox" width="35">
         </a>
     </details>
     <details>
