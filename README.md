@@ -55,5 +55,8 @@
         <a href="https://python.org/" target="_blank">
             <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" width="35">
         </a>
+        <a href="https://www.php.net/" target="_blank">
+            <img src="https://www.php.net/favicon-32x32.png?v=2" alt="php" width="35">
+        </a>
     </details>
 </div>
