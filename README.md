@@ -1,7 +1,8 @@
 <div id="header" align="center">
     <h1>Hello there ! 👋</h1>
     <p>
-        I'm a young graphic designer diving into the world of Cybersecurity. Here's a bit about my toolkit and what I'm currently learning:
+        I'm a young graphic designer diving into the world of Cybersecurity.<br>
+        Here's a bit about my toolkit and what I'm currently learning:
     </p>
     <img src="https://komarev.com/ghpvc/?username=laisoJS&label=Profile%20views&color=25221B&style=flat" alt="laisoJS profile view" width="150"/>
     <h2>Tools & Technologies</h2>
